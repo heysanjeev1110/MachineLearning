@@ -1,6 +1,8 @@
 # MachineLearning
 Text on ML Ops cycle
 
+**CHANGE DONE <Begin_Change>: THIS CONTENT is COPIED FROM ABOVE URL.</End of Change>
+
 url : https://www.ml4devs.com/articles/mlops-machine-learning-life-cycle/
 
 MLOps: Machine Learning Life Cycle
